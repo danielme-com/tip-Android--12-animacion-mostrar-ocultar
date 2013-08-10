@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+        <string name="app_name">Traslación - danielme.com</string>
+        <string name="mostrar">Mostrar</string>
+        <string name="ocultar">Ocultar</string>
+        <string name="texto">Hello World !!</string>
+        
+</resources>
